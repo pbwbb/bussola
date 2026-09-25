@@ -1,0 +1,19 @@
+De:      seguranca@paonosso-suporte.com
+Para:    joao.padaria@paonosso.com.br
+Data:    2026-03-13 16:40
+Assunto: [URGENTE] Sua senha expira em 2 horas
+
+Olá João,
+
+Detectamos um acesso suspeito na sua conta. Por segurança,
+você precisa REVALIDAR sua senha agora mesmo, ou sua conta
+será BLOQUEADA em 2 horas.
+
+Clique no link abaixo para manter sua conta ativa:
+
+    https://paonosso.com.br.login-seguro.xyz/revalidar
+
+Não perca tempo. Faça isso antes que seja tarde.
+
+Equipe de Segurança
+Padaria Pão Nosso
