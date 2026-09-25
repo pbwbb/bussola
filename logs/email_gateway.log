@@ -1,0 +1,6 @@
+# Registro de entrega de e-mails - Padaria Pão Nosso
+# formato: DATA HORA  RESULTADO  de=<remetente>  para=<destinatário>  assunto="..."  spam=<nível>
+
+2026-03-13 10:12  ENTREGUE  de=ofertas@distribuidorafarinha.com.br     para=compras@paonosso.com.br      assunto="Promoção de farinha esta semana"  spam=baixo
+2026-03-13 14:30  ENTREGUE  de=financeiro@laticiniosboavista.com.br    para=dona.rosa@paonosso.com.br    assunto="Boleto de março"                  spam=baixo
+2026-03-13 16:40  ENTREGUE  de=seguranca@paonosso-suporte.com          para=joao.padaria@paonosso.com.br assunto="[URGENTE] Sua senha expira em 2 horas"  spam=alto

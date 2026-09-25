@@ -1,0 +1,16 @@
+# Registro de acessos (login/logout) - Padaria Pão Nosso
+# formato: DATA HORA  RESULTADO  user=<conta>  ip=<origem>  local=<país>  device=<aparelho>
+
+2026-03-13 08:03  LOGIN OK      user=maria.caixa   ip=177.45.2.10   local=Brasil  device=pc-caixa
+2026-03-13 08:10  LOGIN OK      user=joao.padaria  ip=177.45.2.11   local=Brasil  device=pc-balcao
+2026-03-13 09:20  LOGIN OK      user=dona.rosa     ip=177.45.2.12   local=Brasil  device=pc-gerencia
+2026-03-13 12:05  LOGIN OK      user=joao.padaria  ip=177.45.2.11   local=Brasil  device=pc-balcao
+2026-03-13 17:45  LOGOUT        user=dona.rosa     ip=177.45.2.12   local=Brasil  device=pc-gerencia
+2026-03-13 18:00  LOGOUT        user=maria.caixa   ip=177.45.2.10   local=Brasil  device=pc-caixa
+2026-03-14 02:58  LOGIN FALHOU  user=joao.padaria  ip=203.0.113.45  local=Rússia  device=desconhecido
+2026-03-14 03:01  LOGIN FALHOU  user=joao.padaria  ip=203.0.113.45  local=Rússia  device=desconhecido
+2026-03-14 03:12  LOGIN OK      user=joao.padaria  ip=203.0.113.45  local=Rússia  device=desconhecido
+2026-03-14 03:20  LOGOUT        user=joao.padaria  ip=203.0.113.45  local=Rússia  device=desconhecido
+2026-03-14 07:58  LOGIN OK      user=maria.caixa   ip=177.45.2.10   local=Brasil  device=pc-caixa
+2026-03-14 08:05  LOGIN OK      user=joao.padaria  ip=177.45.2.11   local=Brasil  device=pc-balcao
+2026-03-14 09:12  LOGIN OK      user=dona.rosa     ip=177.45.2.12   local=Brasil  device=pc-gerencia
