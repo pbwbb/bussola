@@ -18,7 +18,7 @@ Abra a pasta **`emails/`** e leia as três mensagens.
 
 4. Qual dos e-mails parece um golpe? Como você percebeu?
 5. Qual o endereço do site?
-6. Que "truques" o e-mail usou para te apressar? (pense na aula)
+6. Que "truques" o e-mail usou para te apressar?
 
 ## Rodada 3 — Quem caiu
 Abra **`logs/web.log`**.
