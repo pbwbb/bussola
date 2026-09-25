@@ -1,0 +1,21 @@
+========================================
+   ALERTA DE SEGURANÇA - SOC
+========================================
+Prioridade : ALTA
+Gerado em  : 2026-03-14 03:14
+Regra      : Login fora do horário + país incomum
+
+DETALHE
+-------
+Login BEM-SUCEDIDO da conta "joao.padaria"
+às 03:12, vindo do IP 203.0.113.45 (Rússia),
+em um aparelho nunca visto antes.
+
+A padaria está fechada nesse horário e o
+funcionário nunca acessou de fora do Brasil.
+
+PERGUNTA
+--------
+Este acesso é legítimo ou é um invasor?
+Investigue os logs e os e-mails para descobrir.
+========================================
