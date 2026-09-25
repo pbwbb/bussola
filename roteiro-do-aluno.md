@@ -24,7 +24,6 @@ Abra a pasta **`emails/`** e leia as três mensagens.
 Abra **`logs/web.log`**.
 
 7. Alguém da padaria clicou no link do golpe? Quem e a que horas?
-8. Procure pelo domínio do golpe com Ctrl+F para confirmar.
 
 ## Rodada 4 — O invasor entra
 Abra **`logs/auth.log`**.
@@ -36,7 +35,7 @@ Abra **`logs/auth.log`**.
 Volte ao **`logs/web.log`**.
 
 11. Depois de entrar às 03:1x, o que o invasor acessou?
-12. Qual linha é a **prova** de que dados foram roubados? (dica: procure "exportar" e olhe o tamanho)
+12. Qual linha é a **prova** de que dados foram roubados? 
 13. Que dado foi levado?
 
 ## Rodada 6 — A linha do tempo
