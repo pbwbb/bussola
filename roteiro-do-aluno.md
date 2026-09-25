@@ -17,7 +17,7 @@ Abra **`alerta.txt`**.
 Abra a pasta **`emails/`** e leia as três mensagens.
 
 4. Qual dos e-mails parece um golpe? Como você percebeu?
-5. Olhe o endereço do site no link. Qual é o domínio **de verdade** (o que vem antes da primeira `/`)?
+5. Qual o endereço do site?
 6. Que "truques" o e-mail usou para te apressar? (pense na aula)
 
 ## Rodada 3 — Quem caiu
