@@ -28,7 +28,7 @@ Abra **`logs/web.log`**.
 ## Rodada 4 — O invasor entra
 Abra **`logs/auth.log`**.
 
-9. Ache a linha do login das 03:12. O que tem de diferente nela? (IP, país, aparelho)
+9. Ache a linha do login das 03:12. O que tem de diferente nela?
 10. Aconteceu alguma coisa **antes** das 03:12 com essa mesma conta?
 
 ## Rodada 5 — O estrago
